@@ -1,4 +1,4 @@
-# PETOOL
+# PETOOL version 1 
 PeTool for windows cmd command
 	
 # Show Hex View

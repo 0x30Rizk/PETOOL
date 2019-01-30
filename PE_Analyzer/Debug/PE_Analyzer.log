@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  PE_Analyzer.cpp
+f:\github\c program\pe\pe_analyzer - 複製\pe_analyzer\funcs.h(139): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+f:\github\c program\pe\pe_analyzer - 複製\pe_analyzer\funcs.h(143): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+f:\github\c program\pe\pe_analyzer - 複製\pe_analyzer\funcs.h(158): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+f:\github\c program\pe\pe_analyzer - 複製\pe_analyzer\funcs.h(163): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+f:\github\c program\pe\pe_analyzer - 複製\pe_analyzer\funcs.h(168): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+f:\github\c program\pe\pe_analyzer - 複製\pe_analyzer\funcs.h(187): warning C4018: '<': signed/unsigned 不相符
+f:\github\c program\pe\pe_analyzer - 複製\pe_analyzer\funcs.h(202): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+f:\github\c program\pe\pe_analyzer - 複製\pe_analyzer\funcs.h(242): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+f:\github\c program\pe\pe_analyzer - 複製\pe_analyzer\manual.h(14): warning C4129: '_': 無法辨識的字元逸出序列
+f:\github\c program\pe\pe_analyzer - 複製\pe_analyzer\funcs.h(99): warning C4715: 'HexDump': 不是所有控制路徑都傳回值
+  PE_Analyzer.vcxproj -> F:\Github\C program\PE\PE_Analyzer - 複製\Debug\PE_Analyzer.exe
